@@ -10,7 +10,6 @@ Next, I symbolized the varied increases and decreases in vacancy by putting them
 
 ![](https://github.com/Bergren1/Project2/files/2583656/Adjusted.Symbology.pdf)
 
-
 Finally, I created 2 maps, one of 2000, and one of 2009, to quickly show the differences in vacancy that can be represented in a gif format below.
 
 ![](https://user-images.githubusercontent.com/42807663/48530405-95f4f600-e865-11e8-990e-1d70c13bec9d.gif)
